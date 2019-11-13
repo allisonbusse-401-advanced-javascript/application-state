@@ -1,6 +1,4 @@
-import React from 'react';
-import { shallow } from 'enzyme';
-import Moods, { isTired, isHyper, isEducated, isHungry, getFace } from './Moods';
+import { isTired, isHyper, isEducated, isHungry, getFace } from './Moods';
 
 describe('Moods', () => {
   describe('mood selectors', () => {
