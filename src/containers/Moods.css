@@ -1,0 +1,12 @@
+.Moods {
+  margin: 60px auto;
+  width: 85vw;
+  text-align: center;
+  button {
+    text-transform: uppercase;
+    padding: 4px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+  }
+}
